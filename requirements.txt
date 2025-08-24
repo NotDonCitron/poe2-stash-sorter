@@ -1,0 +1,5 @@
+pyautogui>=0.9.54
+pyperclip>=1.8.2
+keyboard>=0.13.5
+pywin32>=306
+asyncio>=3.4.3
