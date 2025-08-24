@@ -1,0 +1,163 @@
+{
+    "active_profile": "ASDAWD",
+    "auto_calibration": {
+        "match_threshold": 0.3,
+        "screenshot_region": null
+    },
+    "debug": {
+        "DEBUG_MODE": false,
+        "PROGRESSIVE_SCAN": false
+    },
+    "game": {
+        "WINDOW_TITLE": "Path of Exile"
+    },
+    "inventory": {
+        "COLUMNS": 12,
+        "FIRST_SLOT_TOP_LEFT_X": 1693,
+        "FIRST_SLOT_TOP_LEFT_Y": 780,
+        "ROWS": 5,
+        "SLOT_HEIGHT": 74,
+        "SLOT_WIDTH": 70
+    },
+    "item_definitions": {
+        "CATALYST_NAMES": [
+            "turbulent catalyst",
+            "imbued catalyst",
+            "intrinsic catalyst",
+            "prismatic catalyst",
+            "tempering catalyst",
+            "fertile catalyst",
+            "accelerating catalyst",
+            "noxious catalyst",
+            "unstable catalyst",
+            "abrasive catalyst",
+            "tainted catalyst"
+        ],
+        "CHANCE_BASE_TYPES": [
+            "stellar amulet",
+            "sapphire ring",
+            "emerald ring",
+            "ornate belt",
+            "gold ring",
+            "Gold Amulet",
+            "Heavy Belt",
+            "Solar Amulet"
+        ],
+        "IGNORE_LIST_BASES": [
+            "Scroll of Wisdom",
+            "Portal Scroll"
+        ],
+        "ULTIMATUM_DJINN_NAMES": [
+            "inscribed ultimatum",
+            "djinn barya"
+        ]
+    },
+    "profiles": {
+        "ASDAWD": {
+            "inventory": {
+                "COLUMNS": 12,
+                "FIRST_SLOT_TOP_LEFT_X": 1595,
+                "FIRST_SLOT_TOP_LEFT_Y": 862,
+                "ROWS": 5,
+                "SLOT_HEIGHT": 88,
+                "SLOT_WIDTH": 79
+            },
+            "stash_tabs": {
+                "CHANCE_ITEMS": {
+                    "X": 1156,
+                    "Y": 681
+                },
+                "CURRENCY_CATALYST": {
+                    "X": 1166,
+                    "Y": 613
+                },
+                "JEWEL": {
+                    "X": 1157,
+                    "Y": 713
+                },
+                "PRECURSOR_TABLET": {
+                    "X": 1153,
+                    "Y": 230
+                },
+                "QUALITY_SOCKET": {
+                    "X": 1163,
+                    "Y": 748
+                },
+                "RARE": {
+                    "X": 1172,
+                    "Y": 154
+                },
+                "RUNE": {
+                    "X": 1128,
+                    "Y": 1055
+                },
+                "ULTIMATUM_DJINN": {
+                    "X": 1160,
+                    "Y": 952
+                },
+                "VENDOR_CHAOS": {
+                    "X": 0,
+                    "Y": 0
+                }
+            }
+        }
+    },
+    "stash_tabs": {
+        "CHANCE_ITEMS": {
+            "X": 1057,
+            "Y": 580
+        },
+        "CURRENCY_CATALYST": {
+            "X": 1050,
+            "Y": 547
+        },
+        "JEWEL": {
+            "X": 1077,
+            "Y": 510
+        },
+        "PRECURSOR_TABLET": {
+            "X": 1153,
+            "Y": 230
+        },
+        "QUALITY_SOCKET": {
+            "X": 1163,
+            "Y": 748
+        },
+        "RARE": {
+            "X": 1036,
+            "Y": 142
+        },
+        "RUNE": {
+            "X": 1128,
+            "Y": 1055
+        },
+        "ULTIMATUM_DJINN": {
+            "X": 1160,
+            "Y": 952
+        },
+        "VENDOR_CHAOS": {
+            "X": 0,
+            "Y": 0
+        }
+    },
+    "timing": {
+        "CLIPBOARD_WAIT": 0.1,
+        "DARWIN_CATCH_UP_TIME": 0,
+        "LOOP_SLEEP": 0.4,
+        "MINIMUM_DURATION": 0.003,
+        "MINIMUM_SLEEP": 0.001,
+        "PAUSE": 0.003,
+        "POST_CLICK_WAIT": 0.1,
+        "TAB_SWITCH_WAIT": 0.2,
+        "WINDOW_CHECK_INTERVAL": 0.3
+    },
+    "vendor_recipes": {
+        "chaos_recipe": {
+            "enabled": false,
+            "identify_rares": false,
+            "max_ilvl": 74,
+            "min_ilvl": 60,
+            "target_tab": "VENDOR_CHAOS"
+        }
+    }
+}
